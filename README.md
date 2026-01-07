@@ -1,6 +1,6 @@
 ## Professional Summary
 
-Senior technical writer and content architect with 25+ years designing documentation, support systems, and training for complex products—from enterprise middleware to consumer hardware to AI systems. Combines systems thinking, stakeholder empathy, and mission-driven design to build information architectures that reduce friction and build trust under high-stakes or resource-constrained conditions. Particularly effective in early-stage, mission-driven environments where roles are fluid and impact is direct.
+Senior technical writer and content architect with 25+ years designing documentation, support systems, and training for complex products from enterprise middleware to consumer hardware to AI systems. Combines systems thinking, stakeholder empathy, and mission-driven design to build information architectures that reduce friction and build trust under high-stakes or resource-constrained conditions. Particularly effective in early-stage, mission-driven environments where roles are fluid and impact is direct.
 
 Tenacious problem-solver comfortable leading change, absorbing complexity, and staying grounded when systems fail or stakeholders pull in competing directions. Recently earned **Google Cloud Generative AI Leader** certification; hands-on expertise in LLM evaluation, prompt design, and AI-assisted content strategy.
 
